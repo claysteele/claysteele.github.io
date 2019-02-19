@@ -1,6 +1,6 @@
 {
     "name": "Funky Firewater",
-    "short_name": "Funky Firewater",
+    "short_name": "FF",
     "description": "Machine Administrator",
     "start_url": "/",
     "display": "standalone",
